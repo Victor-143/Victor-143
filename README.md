@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sanjay Patil M</h1>
+# Sanjay Patil M GitHub Profile README
+
+```markdown
+<h1 align="center">Hi, I'm Sanjay Patil M</h1>
 
 <h3 align="center">
 🏆 University Topper | 🤖 AI/ML Enthusiast | 💻 Full Stack Developer | ☕ Java Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;AI%2FML+Developer;Full+Stack+Developer;University+Topper+CGPA+9.91;Gold+Medalist;Always+learning+new+things&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;AI%2FML+Developer;Full+Stack+Developer;University+Topper+CGPA+9.91;Double+Gold+Medalist;Founder+of+Prixious;Always+learning+new+things&center=true&width=700&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victor-143&label=Profile%20Views&color=0e75b6&style=flat" alt="Victor-143" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. in Computer Science & Engineering at **Nitte Meenakshi Institute of Technology (NMIT), Bangalore**
+- 🎓 B.E. in **Computer Science & Engineering** at **Nitte Meenakshi Institute of Technology (NMIT), Bangalore**
 - 🏆 **University Topper** with **CGPA: 9.91/10**
 - 🥇 **Gold Medalist – CSE Department Topper**
 - 🥇 **Gold Medalist – Overall College Topper**
-- 🌱 Currently exploring **Advanced Machine Learning, System Design, and Full Stack Development**
-- 💼 AI/ML Intern at **Elevate Labs**
-- 💼 Software Development Intern at **InsightKnox**
+- 🚀 **Founder @ Prixious**
+- 🌐 Building innovative digital experiences through **Prixious** → https://prixious.lovable.app/
+- 🤖 **AI/ML Intern @ Elevate Labs (Aug 2025 – Sep 2025)**
+- 💻 **Software Development Engineer Intern @ InsightKnox (Oct 2025 – Nov 2025)**
+- 🌱 Passionate about building scalable software solutions using **AI/ML** and **Full Stack technologies**
 - 📫 Reach me at **sanjaykesari143@gmail.com**
 
 ---
@@ -26,18 +35,41 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjay-patil-m/" target="blank">
+<a href="https://www.linkedin.com/in/sanjay-patil-m/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://github.com/Victor-143" target="blank">
+<a href="https://github.com/Victor-143" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <a href="mailto:sanjaykesari143@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" height="50"/>
 </a>
+
+<a href="https://prixious.lovable.app/" target="_blank">
+<img src="https://img.icons8.com/color/48/domain.png" height="50"/>
+</a>
 </p>
+
+---
+
+# 💼 Experience & Leadership
+
+### 🚀 Founder & Developer | Prixious
+- Founded and lead **Prixious**, a platform focused on building innovative digital solutions.
+- Responsible for product ideation, development, and strategic planning.
+- Driving initiatives in software development and AI-powered applications.
+
+### 💻 Software Development Engineer Intern | InsightKnox
+- Developed full-stack web applications using **React.js** and **Node.js**.
+- Collaborated with teams using **Agile methodologies** and **Git/GitHub**.
+- Improved application performance through optimization and code reviews.
+
+### 🤖 AI/ML Intern | Elevate Labs
+- Built machine learning models using **Python**, **TensorFlow**, and **Scikit-learn**.
+- Performed feature engineering and hyperparameter tuning achieving **85%+ accuracy**.
+- Developed data visualization dashboards and deployed solutions on cloud platforms.
 
 ---
 
@@ -52,7 +84,7 @@
 - Achieved **80% alignment with HR judgments**
 - Reduced manual screening time by **60%**
 
-🔗 Repository: [AI-Powered Resume Ranker](https://github.com/Victor-143/AI-Powered-Resume-Ranker)
+🔗 Repository: https://github.com/Victor-143/AI-Powered-Resume-Ranker
 
 ---
 
@@ -64,7 +96,7 @@
 - Performs face recognition using deep learning models
 - Assists law enforcement in suspect identification
 
-🔗 Repository: [Facial Recognition Project](https://github.com/Victor-143/Facial-Sketch-To-Image-Synthesis-And-Recognition)
+🔗 Repository: https://github.com/Victor-143/Facial-Sketch-To-Image-Synthesis-And-Recognition
 
 ---
 
@@ -73,11 +105,10 @@
 **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost
 
 - Predicts agricultural crop yields with **87%+ accuracy**
-- Used regression algorithms:
-  - Linear Regression
-  - Random Forest
-  - XGBoost
-- Feature engineering and hyperparameter optimization
+- Implemented Linear Regression, Random Forest, and XGBoost
+- Performed feature engineering and hyperparameter optimization
+
+🔗 Repository: https://github.com/Victor-143/Crop-Yield-Prediction    
 
 ---
 
@@ -89,6 +120,8 @@
 - Implemented **Page Object Model**
 - Reduced manual testing effort by **70%**
 
+🔗 Repository:  https://github.com/Victor-143/Bigbasket_Automation_Selenium
+
 ---
 
 ## 🔐 Android Security Toolkit
@@ -98,6 +131,8 @@
 - RSA Encryption & Decryption using **2048-bit keys**
 - Secure OTP authentication system
 - Material Design based Android UI
+
+🔗 Repository: https://github.com/Victor-143/RSA-Toolkit-Android 
 
 ---
 
@@ -111,6 +146,8 @@ Implemented various ML algorithms including:
 - Support Vector Machines (SVM)
 - K-Means Clustering
 - Classification & Regression models
+
+🔗 Repository: https://github.com/Victor-143/YOUR_REPOSITORY_NAME
 
 ---
 
@@ -135,6 +172,7 @@ Implemented various ML algorithms including:
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=eclipse" />
 <img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=aws" />
 
 </p>
 
@@ -149,15 +187,21 @@ Implemented various ML algorithms including:
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-- 🎓 Machine Learning using Python – SimpliLearn
-- 🎓 Data Science using Python – Infosys
-- 🎓 Java Foundation Certification – Infosys
-- 🎓 Database Management System (DBMS) – Infosys
-- 🎓 Operating Systems Basics – Cisco
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Machine%20Learning-SimpliLearn-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-Infosys-blue?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Foundation-Infosys-red?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DBMS-Infosys-green?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
 
 # 📊 GitHub Statistics
 
@@ -185,7 +229,7 @@ Implemented various ML algorithms including:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Victor-143&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Victor-143&theme=tokyonight&row=1&column=4"/>
 
 </p>
 
@@ -198,3 +242,4 @@ Implemented various ML algorithms including:
 <i>"Success is the sum of small efforts repeated day in and day out."</i>
 
 </p>
+```
