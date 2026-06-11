@@ -186,19 +186,13 @@ Implemented various ML algorithms including:
 
 ## 📜 Certifications
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-SimpliLearn-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-Infosys-blue?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java%20Foundation-Infosys-red?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DBMS-Infosys-green?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
+| Certification | Issued By |
+|---------------|------------|
+| 🤖 Machine Learning using Python | **SimpliLearn** |
+| 📊 Data Science using Python | **Infosys Springboard** |
+| ☕ Java Foundation Certification | **Infosys Springboard** |
+| 🗄️ Database Management Systems (DBMS) | **Infosys Springboard** |
+| 💻 Operating Systems Basics | **Cisco Networking Academy** |
 
 # 📊 GitHub Statistics
 
@@ -217,16 +211,6 @@ Implemented various ML algorithms including:
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Victor-143&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Victor-143&theme=tokyonight&row=1&column=4"/>
 
 </p>
 
