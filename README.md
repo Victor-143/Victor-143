@@ -144,7 +144,7 @@ Implemented various ML algorithms including:
 - K-Means Clustering
 - Classification & Regression models
 
-🔗 Repository: https://github.com/Victor-143/YOUR_REPOSITORY_NAME
+🔗 Repository: https://github.com/Victor-143/Machine-Learning-Algorithms
 
 ---
 
