@@ -1,6 +1,3 @@
-# Sanjay Patil M GitHub Profile README
-
-```markdown
 <h1 align="center">Hi, I'm Sanjay Patil M</h1>
 
 <h3 align="center">
@@ -242,4 +239,3 @@ Implemented various ML algorithms including:
 <i>"Success is the sum of small efforts repeated day in and day out."</i>
 
 </p>
-```
